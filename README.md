@@ -28,8 +28,8 @@ Performance Evaluation:** This includes performance metrics like accuracy, preci
    git clone https://github.com/Preksha-0211/Semiconductor-wafer-defect-detection.git
 
 2. Navigate to the project directory:
-```bash
 cd Semiconductor-wafer-defect-detection
+
 
 3. Create a virtual environment (optional but recommended):
 ```bash
