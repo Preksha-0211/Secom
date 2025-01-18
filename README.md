@@ -26,3 +26,21 @@ Performance Evaluation:** This includes performance metrics like accuracy, preci
 1. Clone the repository:
    ```bash
    git clone https://github.com/Preksha-0211/Semiconductor-wafer-defect-detection.git
+
+2. Navigate to the project directory:
+
+bash
+cd Semiconductor-wafer-defect-detection
+
+3. Create a virtual environment (optional but recommended):
+bash
+python -m venv venv
+
+4. Activate the virtual environment:
+On Windows:
+bash
+venv\Scripts\activate
+
+5. Install the required dependencies:
+bash
+pip install -r requirements.txt
